@@ -105,4 +105,4 @@ plt.close(fig)
 
 # 8. Thong tin nguoi tao
 st.divider()
-st.caption("NGUYỄN VIỆT TRIẾT | MSSV:051207014168 ")
+st.caption("NGUYỄN CAO TRIỆU | MSSV:038208023506 ")
